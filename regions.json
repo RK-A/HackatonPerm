@@ -1,0 +1,612 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ГО город Березники",
+        "meteostation": "г. Березники"
+      },
+      "geometry": {
+        "coordinates": [
+          56.80322100334885,
+          59.409945305870764
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Пермский МО",
+        "meteostation": "г. Пермь"
+      },
+      "geometry": {
+        "coordinates": [
+          55.91847587346413,
+          57.78678300161616
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meteostation": "с. Кочёво",
+        "name": "Юрлинский МО"
+      },
+      "geometry": {
+        "coordinates": [
+          54.32563961854834,
+          59.327125486648725
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "meteostation": "г. Верещагино",
+        "name": "Карагайский МО"
+      },
+      "geometry": {
+        "coordinates": [
+          54.93237066522195,
+          58.272741145008524
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Добрянский ГО",
+        "meteostation": "г. Добрянка"
+      },
+      "geometry": {
+        "coordinates": [
+          56.419329259743336,
+          58.45223911144441
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Соликамский ГО",
+        "meteostation": "г. Березники"
+      },
+      "geometry": {
+        "coordinates": [
+          56.756600483463956,
+          59.65373651365178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чернушинский ГО",
+        "meteostation": "г. Чернушка"
+      },
+      "geometry": {
+        "coordinates": [
+          56.07033084276301,
+          56.50204348568667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Нытвенский ГО",
+        "meteostation": "г. Верещагино"
+      },
+      "geometry": {
+        "coordinates": [
+          55.326468875027615,
+          57.95024098977527
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кунгурский МО",
+        "meteostation": "г. Кунгур"
+      },
+      "geometry": {
+        "coordinates": [
+          56.933068486326476,
+          57.42942127707667
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Березовский МО",
+        "meteostation": "г. Кунгур"
+      },
+      "geometry": {
+        "coordinates": [
+          57.31103947896713,
+          57.59682453033338
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Александровский МО",
+        "meteostation": "г. Березники"
+      },
+      "geometry": {
+        "coordinates": [
+          57.583069718269655,
+          59.16018400361867
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Бардымский МО",
+        "meteostation": "г. Оса"
+      },
+      "geometry": {
+        "coordinates": [
+          55.58537661138436,
+          56.92980739506271
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Большесосновский МО",
+        "meteostation": "с. Большая Соснова"
+      },
+      "geometry": {
+        "coordinates": [
+          54.602269179576695,
+          57.66571931801619
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Верещагинский ГО",
+        "meteostation": "г. Верещагино"
+      },
+      "geometry": {
+        "coordinates": [
+          54.65975292946899,
+          58.07228072337952
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гайнский МО",
+        "meteostation": "г. Гайны"
+      },
+      "geometry": {
+        "coordinates": [
+          54.318973618827584,
+          60.30311689394523
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ГО город Кизел",
+        "meteostation": "г. Губаха"
+      },
+      "geometry": {
+        "coordinates": [
+          57.65090222589464,
+          59.047160607004514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Горнозаводский ГО",
+        "meteostation": "п. Бисер"
+      },
+      "geometry": {
+        "coordinates": [
+          58.31533427452263,
+          58.37093116163393
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Губахинский МО",
+        "meteostation": "г. Губаха"
+      },
+      "geometry": {
+        "coordinates": [
+          57.55178773653472,
+          58.84448762483734
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Еловский МО",
+        "meteostation": "с. Ножовка"
+      },
+      "geometry": {
+        "coordinates": [
+          54.92646303424462,
+          57.04508387761783
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ЗАТО Звездный",
+        "meteostation": "г. Пермь"
+      },
+      "geometry": {
+        "coordinates": [
+          56.326844643872874,
+          57.72977493426518
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ильинский ГО",
+        "meteostation": "г. Чермоз"
+      },
+      "geometry": {
+        "coordinates": [
+          55.68998584739967,
+          58.566490346612
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кишертский МО",
+        "meteostation": "г. Кунгур"
+      },
+      "geometry": {
+        "coordinates": [
+          57.235607967665146,
+          57.361284980309335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Косинский МО",
+        "meteostation": "с. Коса"
+      },
+      "geometry": {
+        "coordinates": [
+          54.981339043194225,
+          59.94527401068561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кочевский МО",
+        "meteostation": "с. Кочёво"
+      },
+      "geometry": {
+        "coordinates": [
+          54.3173923786465,
+          59.59608925617681
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Красновишерский ГО",
+        "meteostation": "п. Вая"
+      },
+      "geometry": {
+        "coordinates": [
+          57.07073100270162,
+          60.398646314449934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Краснокамский ГО",
+        "meteostation": "г. Пермь"
+      },
+      "geometry": {
+        "coordinates": [
+          55.754626758506674,
+          58.08384454424612
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Кудымкарский МО",
+        "meteostation": "г. Кудымкар"
+      },
+      "geometry": {
+        "coordinates": [
+          54.660145121506275,
+          59.01465957118816
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Куединский МО",
+        "meteostation": "г. Чернушка"
+      },
+      "geometry": {
+        "coordinates": [
+          55.59120231151246,
+          56.43219985791498
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Лысьвенский ГО",
+        "meteostation": "г. Лысьва"
+      },
+      "geometry": {
+        "coordinates": [
+          57.7972866284976,
+          58.10303427610464
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Октябрьский ГО",
+        "meteostation": "п. Октябрьский"
+      },
+      "geometry": {
+        "coordinates": [
+          57.20000776835539,
+          56.51436308789428
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ординский МО",
+        "meteostation": "г. Кунгур"
+      },
+      "geometry": {
+        "coordinates": [
+          56.90123278237408,
+          57.193582759372106
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Осинский ГО",
+        "meteostation": "г. Оса"
+      },
+      "geometry": {
+        "coordinates": [
+          55.45653912980009,
+          57.281465568394026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Оханский ГО",
+        "meteostation": "г. Оханск"
+      },
+      "geometry": {
+        "coordinates": [
+          55.387984178161815,
+          57.719850086699836
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Очерский ГО",
+        "meteostation": "г. Верещагино"
+      },
+      "geometry": {
+        "coordinates": [
+          54.71664505428956,
+          57.884690406858454
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Пермский ГО",
+        "meteostation": "г. Пермь"
+      },
+      "geometry": {
+        "coordinates": [
+          56.247011810627015,
+          58.01410221954973
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Сивинский МО",
+        "meteostation": "г. Верещагино"
+      },
+      "geometry": {
+        "coordinates": [
+          54.37544078596943,
+          58.37914051912949
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Суксунский ГО",
+        "meteostation": "г. Кунгур"
+      },
+      "geometry": {
+        "coordinates": [
+          57.38236769316134,
+          57.14372251094386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Уинский МО",
+        "meteostation": "г. Чернушка"
+      },
+      "geometry": {
+        "coordinates": [
+          56.57455105439021,
+          56.88187641978297
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чайковский ГО",
+        "meteostation": "г. Чайковский"
+      },
+      "geometry": {
+        "coordinates": [
+          54.13764929574393,
+          56.777828983619685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Частинский МО",
+        "meteostation": "с. Ножовка"
+      },
+      "geometry": {
+        "coordinates": [
+          54.96819381339145,
+          57.29389127537826
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чердынский ГО",
+        "meteostation": "г. Чердынь"
+      },
+      "geometry": {
+        "coordinates": [
+          56.47612674291875,
+          60.4020381607161
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чусовской ГО",
+        "meteostation": "г. Лысьва"
+      },
+      "geometry": {
+        "coordinates": [
+          57.814196650576406,
+          58.285483116871205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Юсьвинский МО",
+        "meteostation": "г. Кудымкар"
+      },
+      "geometry": {
+        "coordinates": [
+          54.96439255682438,
+          58.959597814965434
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
